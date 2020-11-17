@@ -1,5 +1,6 @@
-def fizz_buzz():
-    # your code here
+import random
 
+all_numbers = []
 
-fizz_buzz()
+for i in range():
+    return 
