@@ -13,12 +13,18 @@ def get_color(color_number=4):
               }
     return switcher.get(color_number,"Invalid Color Number")
 
+example_color = 1
+students_array = []
 
 def get_allStudentColors():
+    for i in range(10):
+        random_color = random.randint(0,4) 
+        example_color = get_color(random_color)
+        students_array.append(example_color)
 
-    example_color = 1
-    students_array = []
-    #your loop here
+        return students_array
+
+print(get_allStudentColors())
 
 
 

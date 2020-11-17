@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ce8ec815-29cb-4bc9-b8ee-e6d63a000b8d.ws-eu01.gitpod.io",
+    "address": "https://f8091e15-0291-4d83-8b95-fb9e11003b45.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -212,7 +212,7 @@
         {
             "slug": "16-Create-A-For-Loop",
             "title": "16-Create-A-For-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Create-A-For-Loop",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "18-Random-Colors-Loop",
             "title": "18-Random-Colors-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Random-Colors-Loop",
             "translations": [
                 "es",
