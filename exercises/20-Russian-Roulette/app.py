@@ -9,8 +9,14 @@ def spin_chamber():
 #  DON'T CHANGE THE CODE ABOVE
 def fire_gun():
 	# YOUR CODE HERE
+    x = spin_chamber()
+    print(x)
+
+    if(bullet_position == x):
+        print("You're dead")
+    else:
+        print( "Keep Playing!")
+    
 
 
-
-
-print(fire_gun())
+fire_gun()

@@ -30,4 +30,3 @@ print(get_allStudentColors())
 
 
 
-print(get_allStudentColors())

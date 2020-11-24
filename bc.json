@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f8091e15-0291-4d83-8b95-fb9e11003b45.ws-eu01.gitpod.io",
+    "address": "https://f784dd26-6253-4f72-b5bc-ff3718a33ecd.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -245,7 +245,7 @@
         {
             "slug": "20-Russian-Roulette",
             "title": "20-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Russian-Roulette",
             "translations": [
                 "es",
@@ -256,7 +256,7 @@
         {
             "slug": "21-The-Beatles",
             "title": "21-The-Beatles",
-            "done": false,
+            "done": true,
             "path": "exercises/21-The-Beatles",
             "translations": [
                 "es",
